@@ -1,5 +1,8 @@
 Berkay Bağ 
-Kod-Asistan v0.1
+Kod-Asistan v0.1 
+
+
+
 BAŞLA
   saat = 1
   DÖNGÜ (Her saat başı sensör kontrolü)
